@@ -1,0 +1,51 @@
+{
+  "Title": "سولد",
+  "Logout": "تسجيل خروج",
+  "login": "تسجيل الدخول",
+
+  "Admin": "المدير",
+  "Requests": "الطلابات",
+  "Users": "الأعضاء",
+  "Pages": "الصفحات",
+  "Coins": "العملات",
+  "Comments": "التعليقات",
+  "Reviews": "التقييم",
+
+  "search": "بحث",
+
+  "requests_header": "الطلبات",
+  "users_header": "الأعضاء",
+  "pages_header": "الصفحات",
+  "coins_header": "العملات",
+  "comments_header": "التعليقات",
+  "reviews_header": "التقييم",
+
+  "no_results": "لا يوجد نتائج",
+
+  "id": "الرقم",
+  "action": "النشاط",
+  "coins": "العملة",
+
+  "new_coin": "عملة جديدة",
+  "edit_coin": "تعديل العملة",
+  "cancel": "الغاء",
+  "add": "اضافة",
+  "delete": "حذف",
+  "save": "حفظ",
+
+  "new_request": "طلب جديد",
+  "edit_request": "تعديل الطلب",
+  "delete_request": "حذف الطلب",
+
+  "delete_request_msg": "هل أنت متأكد أنك تريد حذف هذا الطلب ؟",
+
+  "new_field": "حقل جديد",
+  "delete_field": "حذف جديد",
+
+  "name": "الاسم",
+  "image": "الصورة",
+  "field": "حقل",
+  "type": "النوع",
+  "required": "مطلوب اساسي",
+  "multiSelect": "متعدد الاختيارات"
+}

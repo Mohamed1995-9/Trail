@@ -1,0 +1,20 @@
+.btn {
+    padding: 3%;
+    float: right;
+    color: white;
+}
+
+.mat-toolbar {
+    padding: 30;
+    margin-bottom: 20px;
+}
+
+.title {
+    margin-left: 80px;
+    font-weight: bold;
+    color: white;
+}
+
+.header {
+    background: rgb(10, 162, 233);
+}

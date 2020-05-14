@@ -1,0 +1,33 @@
+<app-dashboard></app-dashboard>
+
+<div class="container">
+    <h3 class="title">Home</h3>
+</div>
+<div class="container">
+    <div class="request">
+        <mat-form-field class="request-input full-width" floatLable="never">
+            <mat-label>EmailAddress</mat-label>
+            <input matInput type="email" name="emailaddress" [(ngModel)]="Email">
+        </mat-form-field>
+        <br>
+        <mat-form-field class="request-input full-width" floatLable="always">
+            <mat-label>Name</mat-label>
+            <input matInput type="string" name="name" [(ngModel)]="Name">
+        </mat-form-field>
+        <br>
+        <mat-form-field class="request-input full-width" floatLable="always">
+            <mat-label>Description</mat-label>
+            <input matInput type="string" name="description" [(ngModel)]="Description">
+        </mat-form-field>
+        <br>
+        <mat-form-field class="request-input full-width" floatLable="always">
+            <mat-label>Password</mat-label>
+            <input matInput type="password" name="password" [(ngModel)]="Password">
+            <mat-hint>choose a password at least eight charcter,one appercase letter and one number </mat-hint>
+        </mat-form-field>
+    </div>
+    <div class="checkbox">
+        <mat-checkbox color="primary">Accept terms and conditions</mat-checkbox>
+    </div>
+</div>
+<app-footer></app-footer>

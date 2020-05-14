@@ -1,0 +1,51 @@
+{
+  "Title": "Khazna",
+  "Logout": "Logout",
+  "login": "LOGIN",
+
+  "Admin": "Admin",
+  "Requests": "Requests",
+  "Users": "Users",
+  "Pages": "Pages",
+  "Coins": "Coins",
+  "Comments": "Comments",
+  "Reviews": "Reviews",
+
+  "search": "Search",
+
+  "requests_header": "Requests",
+  "users_header": "Users",
+  "pages_header": "Pages",
+  "coins_header": "Coins",
+  "comments_header": "Comments",
+  "reviews_header": "Reviews",
+
+  "no_results": "No Results",
+
+  "id": "Num",
+  "action": "Action",
+  "coins": "Coins",
+
+  "new_coin": "New Coin",
+  "edit_coin": "Edit Coin",
+  "cancel": "Cancel",
+  "add": "Add",
+  "delete": "Delete",
+  "save": "Save",
+
+  "new_request": "New Request",
+  "edit_request": "Edit Request",
+  "delete_request": "Delete Request",
+
+  "delete_request_msg": "Are you sure you want to delete this request ?",
+
+  "new_field": "New Field",
+  "delete_field": "Delete Field",
+
+  "name": "Name",
+  "image": "Image",
+  "field": "Field",
+  "type": "Type",
+  "required": "Required",
+  "multiSelect": "Multi-Select"
+}
